@@ -9,6 +9,9 @@
 
 <ul>
   <li>🧑‍💻 Desenvolvedor PHP junior </li>
+  <li>🧑‍💻 Desenvolvedor PHP junior </li>
+  <li>🧑‍💻 Desenvolvedor PHP junior </li>
+  <li>🧑‍💻 Desenvolvedor PHP junior </li>
 </ul>
 
 ---
