@@ -30,7 +30,7 @@
 
 ## 😇 Status do Github:
 
-[![Visits Badge](https://badges.pufler.dev/visits/lucasaecio/profile?style=for-the-badge)](https://github.com/lucasaecio/profile)
+[![Visits Badge](https://badges.pufler.dev/visits/lucasaecio/lucasaecio?style=for-the-badge)](https://github.com/lucasaecio/lucasaecio)
 ![Repos Badge](https://badges.pufler.dev/repos/lucasaecio?style=for-the-badge)
 
 <p align = "center">
