@@ -7,10 +7,10 @@
 **About me:**
 
 <ul>
-  <li>🧑‍💻 Desenvolvedor PHP junior </li>
-  <li>🧑‍💻 Atualmente estudando vue.js </li>
-  <li>🧑‍💻 Interesse na área de desenvolvimento web </li>
-  <li>🧑‍💻 Sempre aprendendo novas tecnologias </li>
+  <li> Desenvolvedor PHP junior </li>
+  <li> Atualmente estudando vue.js </li>
+  <li> Interesse na área de desenvolvimento web </li>
+  <li> Sempre aprendendo novas tecnologias </li>
 </ul>
 
 ---
