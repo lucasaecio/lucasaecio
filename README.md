@@ -7,8 +7,8 @@
 **About me:**
 
 <ul>
-  <li> Desenvolvedor PHP junior </li>
-  <li> Atualmente estudando vue.js </li>
+  <li> Desenvolvedor Fullstack junior </li>
+  <li> Atualmente estudando vue.js e flutter </li>
   <li> Interesse na área de desenvolvimento web </li>
   <li> Sempre aprendendo novas tecnologias </li>
 </ul>
