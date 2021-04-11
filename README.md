@@ -13,7 +13,6 @@
   <li> Sempre aprendendo novas tecnologias </li>
 </ul>
 
----
 
 ## 🛠 Technologies 
 
