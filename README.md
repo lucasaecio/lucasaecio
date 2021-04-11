@@ -1,5 +1,5 @@
 <h1>
-    Lucas Aécio - <b>Recife, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b></li>
+    Lucas Aécio - <b>Recife, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brazil</b></li>
 </h1>
 
 <img align='right' src='https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif' width='200'>
