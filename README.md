@@ -17,14 +17,39 @@
 
 ## 🛠 Conhecimentos
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Github" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+#### UI / UX ⚡
+<div text-align="justify">
+    <img src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=fff&labelColor=F43700" />
+    <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+</div>
+
+#### Frontend ⚡
+<div text-align="justify">
+<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=FFDC0B" />
+<img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=fff&labelColor=6C1FFF" />
+<img src="https://img.shields.io/badge/UIkit-blue?style=for-the-badge&logo=uikit&logoColor=fff&labelColor=blue" />
+<img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue&logoColor=fff&labelColor=41B883" />
+</div>
+
+#### Backend ⚡
+<div text-align="justify">
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=fff&labelColor=7377AD" />
+<img src="https://img.shields.io/badge/Nodejs-1FC41A?style=for-the-badge&logo=nodejs&logoColor=fff&labelColor=1FC41A" />
+</div>
+
+#### Mobile ⚡
+<div text-align="justify">
+<img src="https://img.shields.io/badge/Flutter-6b89ff?style=for-the-badge&logo=flutter&logoColor=fff&labelColor=6b89ff" />
+</div>
+
+#### DB ⚡
+<div text-align="justify">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-012A62?style=for-the-badge&logo=mariadb&logoColor=fff&labelColor=012A62" />
+    <img src="https://img.shields.io/badge/MongoDB-22A357?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=22A357" />
+</div>
 
 ---
 
