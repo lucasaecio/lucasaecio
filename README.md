@@ -26,10 +26,11 @@
 
 #### Frontend ⚡
 <div text-align="justify">
-<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=FFDC0B" />
-<img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=fff&labelColor=6C1FFF" />
-<img src="https://img.shields.io/badge/UIkit-blue?style=for-the-badge&logo=uikit&logoColor=fff&labelColor=blue" />
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+	<img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=FFDC0B" />
+	<img src="https://img.shields.io/badge/Bootstrap-6C1FFF?style=for-the-badge&logo=bootstrap&logoColor=fff&labelColor=6C1FFF" />
+	<img src="https://img.shields.io/badge/UIkit-blue?style=for-the-badge&logo=uikit&logoColor=fff&labelColor=blue" />
+	<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+	<img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 </div>
 
 #### Backend ⚡
