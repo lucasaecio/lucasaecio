@@ -7,10 +7,9 @@
 **About me:**
 
 <ul>
-  <li> Desenvolvedor Fullstack junior </li>
-  <li> Atualmente estudando vue.js e flutter </li>
-  <li> Interesse na área de desenvolvimento web </li>
-  <li> Sempre aprendendo novas tecnologias </li>
+  <li> At the moment studying Vue.js and Flutter </li>
+  <li> Interested in web development area </li>
+  <li> Always learning new technologies </li>
 </ul>
 
 
