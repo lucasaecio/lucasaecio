@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Conhecimentos
+## 🛠 Technologies 
 
 #### UI / UX ⚡
 <div text-align="justify">
@@ -53,7 +53,7 @@
 
 ---
 
-## 😇 Status do Github:
+## 😇 Stats of github:
 
 [![Visits Badge](https://badges.pufler.dev/visits/lucasaecio/lucasaecio?style=for-the-badge)](https://github.com/lucasaecio/lucasaecio)
 ![Repos Badge](https://badges.pufler.dev/repos/lucasaecio?style=for-the-badge)
